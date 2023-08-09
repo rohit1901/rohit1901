@@ -2,7 +2,7 @@
 
 ### About me
 - 👋 Hi, I’m @rohit1901</li>
-- 👀 I’m a Mathematician interested in AI/ML, Java, Python, and all things JS</li>
+- 👀 I’m a Mathematician interested in AI/ML, Software Architecture, Java, Python, and all things JS</li>
 - Find me on [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Profile-yellow)](https://huggingface.co/johnny-drama)</li>
 - 🌱 I’m currently a working on utility to automatically generate Typeguards for Typescript types, interfaces, enums, etc.</li>
 - 📫 Just tag me on [X or Twitter or whatever](https://twitter.com/) by scanning the QR Code</li>
