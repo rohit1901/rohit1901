@@ -1,7 +1,7 @@
 <img src="https://github.com/rohit1901/rohit1901/blob/main/qrcode_twitter.com.png" alt="drawing" width="200" align="right"/>
 
 ### About me
-- 👋 Hi, I’m @rohit1901</li>
+- 👋 Hi, I’m @rohit1901 <img src="https://gravatar.com/avatar/rohitkhanduri" alt="Gravatar" class="gravatar" width="20"/>
 - 👀 I’m a Mathematician interested in AI/ML, Software Architecture, Java, Python, and all things JS</li>
 - Find me on [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Spaces-yellow)](https://huggingface.co/johnny-drama)</li>
 - 🌱 I’m currently working on an automated mocking library for unit testing which dynamically generates mock implementations of TypeScript classes and interfaces.</li>
