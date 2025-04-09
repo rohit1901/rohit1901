@@ -2,9 +2,9 @@
 
 ### About me
 - 👋🏽 Hi, I’m [@rohit1901](https://www.rohit.khanduri.de) 
-- 🧮 I’m a Mathematician interested in AI/ML, Software Architecture, Java, Python, and everything about the web.
+- 🧮 I’m a Mathematician interested in AI & ML, Software Architecture, Java, Python, and everything about the web.
 - 🌱 I’m currently working on an automated mocking library for unit testing which dynamically generates mock implementations of TypeScript classes and interfaces.
-- 📫 You can reach out to me via [Discord](https://discord.com/users/1027493882872741908) 
+- 📫 You can reach out to me via [Bluesky](https://bsky.app/profile/drama-j.bsky.social) 
 
 <!---
 rohit1901/rohit1901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
