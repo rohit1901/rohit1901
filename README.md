@@ -3,7 +3,7 @@
 ### About me
 - 👋🏽 Hi, I’m [Rohit Khanduri](https://rohit.khanduri.de) 
 - 🧮 I’m a Mathematician interested in AI & ML, Software Architecture, Java, Python, and everything about the web.
-- 🌱 I’m currently working on an MCP Server for Databases.
+- 🌱 I’m currently working on an AI management and orchestration platform.
 - 📫 You can reach out to me via [E-mail](mailto:r.khanduri@nimbus-tech.de) 
 
 <!---
